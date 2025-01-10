@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dinesh G</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshg3778&label=Profile%20views&color=0e75b6&style=flat" alt="dineshg3778" /> </p>
 
 - 🔭 I’m currently working on **Fin-Quest**
@@ -15,6 +17,9 @@
 
 - 📫 How to reach me **2k23cse035@kiot.ac.in**
 
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/dinesh g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh g" height="30" width="40" /></a>
