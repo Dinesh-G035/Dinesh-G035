@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh G</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif?cid=ecf05e47fk5rmlt3wkthcjm4bxocyqcark6so96mnxogrzux&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="400"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshg3778&label=Profile%20views&color=0e75b6&style=flat" alt="dineshg3778" /> </p>
 
