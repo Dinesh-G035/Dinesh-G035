@@ -60,10 +60,10 @@
  </p>
 
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshg3778&show_icons=true&theme=onedark&locale=en&layout=compact" alt="dineshg3778" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-g035&show_icons=true&theme=onedark&locale=en&layout=compact" alt="dineshg3778" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshg3778&show_icons=true&theme=dark&locale=en" alt="dineshg3778" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-g035&show_icons=true&theme=dark&locale=en" alt="dineshg3778" /></p>
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
@@ -82,4 +82,4 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 </details>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshg3778&" alt="dineshg3778" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-g035&" alt="dinesh-g035" /></p>
