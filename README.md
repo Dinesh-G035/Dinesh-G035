@@ -5,24 +5,22 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshg3778&label=Profile%20views&color=0e75b6&style=flat" alt="dineshg3778" /> </p>
 
-- 🔭 I’m currently working on **Fin-Quest**
+- 🌱 I’m currently learning **Reactjs** and **Java**
 
-- 🌱 I’m currently learning **Reactjs**
+- 👯 I’m looking to collaborate on **Java**
 
-- 👯 I’m looking to collaborate on **Mern**
+- 🤝 I’m looking for help with **Java 8**
 
-- 🤝 I’m looking for help with **Mern**
+- 💬 Ask me about **Java**
 
-- 💬 Ask me about **Html,Css,JavaScript**
-
-- 📫 How to reach me **hsenid508@gmail.com**
+- 📫 How to reach me **dineshcse3778@gmail.com**
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/dinesh g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh g" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/dineshg09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh g" height="30" width="40" /></a>
   <a href="https://twitter.com/@dinesh_g09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dinesh_g09" height="30" width="40" /></a>
 </p>
 
