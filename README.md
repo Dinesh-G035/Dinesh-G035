@@ -82,4 +82,4 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 </details>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-G035" alt="dinesh-g035" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh-G035" alt="Dinesh-G035" /></p> -->
