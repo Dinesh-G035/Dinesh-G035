@@ -80,12 +80,12 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin-right:15px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
-</p>
+<!-- </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-g035&show_icons=true&theme=onedark&locale=en&layout=compact" alt="dineshg3778" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-g035&show_icons=true&theme=onedark&locale=en&layout=compact" alt="dineshg3778" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-g035&show_icons=true&theme=dark&locale=en" alt="dineshg3778" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-g035&show_icons=true&theme=dark&locale=en" alt="dineshg3778" /></p> -->
+ -->
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
