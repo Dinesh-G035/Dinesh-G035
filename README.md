@@ -92,8 +92,10 @@ An interactive platform that teaches budgeting, saving, and investing through ga
 ✔ Responsive UI
 
 ### Tech Stack
+React • Node.js • Express.js • MongoDB
 
-React • JavaScript • MongoDB
+### Work With
+React JS • Tailwind CSS 
 
 ---
 
