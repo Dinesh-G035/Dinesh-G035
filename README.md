@@ -21,7 +21,7 @@
 
 🎨 UI/UX Designer focused on clean and intuitive user experiences
 
-🌱 Currently learning Spring Boot and Advanced Java
+🌱 Currently learning Java
 
 🎯 Goal: Become a Software Engineer
 
