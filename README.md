@@ -1,106 +1,171 @@
 <h1 align="center">Hi 👋, I'm Dinesh G</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer | Java Developer | UI/UX Enthusiast</h3>
+
+<p align="center">
+  Passionate about building scalable web applications, solving real-world problems, and creating user-friendly digital experiences.
+</p>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif?cid=ecf05e47fk5rmlt3wkthcjm4bxocyqcark6so96mnxogrzux&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="400"/>
+
+<img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="400"/>
+
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshg3778&label=Profile%20views&color=0e75b6&style=flat" alt="dineshg3778" /> </p>
 
-- 🌱 I’m currently learning **Reactjs** and **Java**
+---
 
-- 👯 I’m looking to collaborate on **Java**
+## 🚀 About Me
 
-- 🤝 I’m looking for help with **Java 8**
+🎓 B.E. Computer Science and Engineering Student
 
-- 💬 Ask me about **Java**
+💻 Full Stack Developer with experience in MERN Stack and REST APIs
 
-- 📫 How to reach me **dineshcse3778@gmail.com**
+🎨 UI/UX Designer focused on clean and intuitive user experiences
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/dineshg09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh g" height="30" width="40" /></a>
-  <a href="https://twitter.com/@dinesh_g09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dinesh_g09" height="30" width="40" /></a>
+🌱 Currently learning Spring Boot and Advanced Java
+
+🎯 Goal: Become a Software Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 Virtual Classroom System
+
+A full-stack learning platform designed for online education and student engagement.
+
+### Features
+✔ JWT Authentication
+
+✔ Role-Based Access Control
+
+✔ Student Analytics Dashboard
+
+✔ REST API Integration
+
+✔ MongoDB Database
+
+### Tech Stack
+React • Node.js • Express.js • MongoDB
+
+---
+
+## 💰 FinQuest – Financial Learning Platform
+
+An interactive platform that teaches budgeting, saving, and investing through games and real-world simulations.
+
+### Features
+
+✔ Financial Quizzes
+
+✔ Interactive Learning Modules
+
+✔ User Progress Tracking
+
+✔ Responsive UI
+
+### Tech Stack
+
+React • JavaScript • MongoDB
+
+---
+
+## 🌍 Open Source Contributions
+
+✔ Contributed to open-source repositories
+
+✔ Fixed bugs and improved features
+
+✔ Collaborated with developers worldwide
+
+✔ Enhanced project documentation
+
+---
+
+## 🏆 Achievements
+
+🥉 3rd Place – Logo Redesign Competition (2025)
+
+🏅 Team Leader – ICT Academy Hackathon Final Round
+
+📄 Research Paper Presentation – Nanotechnology
+
+📦 MSME Project Contributor – Sustainable Packaging Solutions
+
+---
+
+## 📜 Certifications
+
+- Advanced Java – GeeksforGeeks
+- Git & GitHub – Udemy
+- Ethical Hacking – NPTEL
+- UI/UX Design – Great Learning
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dinesh-G035&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-G035&layout=compact&theme=tokyonight"/>
+
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<p align="center">
 
-<h3 align="left">Programming Languages</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh-G035&theme=tokyonight"/>
+
 </p>
 
-<h3 align="left">Markup Languages</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<h3 align="left">Frameworks and Libraries</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
+## 📈 Contribution Graph
 
-<h3 align="left">Version Control and Testing</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-G035&theme=tokyo-night)]
 
-<h3 align="left">Other Environments and Tools</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-<!-- </p>
+---
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-g035&show_icons=true&theme=onedark&locale=en&layout=compact" alt="dineshg3778" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-g035&show_icons=true&theme=dark&locale=en" alt="dineshg3778" /></p> -->
- -->
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-</div>
-</details>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh-G035" alt="Dinesh-G035" /></p> -->
+## 📫 Connect With Me
+
+📧 Email: dineshcse3778@gmail.com
+
+💼 LinkedIn: [DineshG09](https://www.linkedin.com/in/dineshg09)
+
+🌐 Portfolio: [dinesh-sand.vercel.app](https://dinesh-sand.vercel.app/)
+
+🐙 GitHub: [Dinesh-G035](https://github.com/Dinesh-G035)
+
+---
+
+⭐ "Building solutions that create impact and improve lives."
