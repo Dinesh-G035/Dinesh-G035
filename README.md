@@ -130,24 +130,16 @@ React JS • Tailwind CSS
 - Ethical Hacking – NPTEL
 - UI/UX Design – Great Learning
 
-
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/Dinesh-G035">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinesh-G035&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinesh-G035&theme=tokyonight)
 
-<a href="https://github.com/Dinesh-G035">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-G035&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
-
-<img width="700" src="https://streak-stats.demolab.com?user=Dinesh-G035&theme=tokyonight&hide_border=true" />
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dinesh-G035&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dinesh-G035&theme=tokyonight)
 
 </div>
 
@@ -158,7 +150,6 @@ React JS • Tailwind CSS
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-G035&theme=tokyo-night)]
 
 ---
-
 
 ## 📫 Connect With Me
 
@@ -172,4 +163,4 @@ React JS • Tailwind CSS
 
 ---
 
-⭐ "Building solutions that create impact and improve lives."
+<p align="center" >⭐ "Building solutions that create impact and improve lives."</p>
