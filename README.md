@@ -162,5 +162,6 @@ React JS • Tailwind CSS
 🐙 GitHub: [Dinesh-G035](https://github.com/Dinesh-G035)
 
 ---
+<h2>Quote:</h2>
 
 <p align="center" >⭐ "Building solutions that create impact and improve lives."</p>
