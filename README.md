@@ -132,14 +132,15 @@ React JS • Tailwind CSS
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Streaks
 
 <div align="center">
 
+<!-- Profile Details Card -->
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinesh-G035&theme=tokyonight)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dinesh-G035&theme=tokyonight)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dinesh-G035&theme=tokyonight)
+<!-- Daily Commit Streak Card -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dinesh-G035&theme=tokyonight)
 
 </div>
 
