@@ -117,9 +117,9 @@ React JS • Tailwind CSS
 
 🏅 Team Leader – ICT Academy Hackathon Final Round
 
-📄 Research Paper Presentation – Nanotechnology
-
 📦 MSME Project Contributor – Sustainable Packaging Solutions
+
+📄 Research Paper Presentation – Nanotechnology
 
 ---
 
