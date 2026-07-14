@@ -73,7 +73,7 @@ A full-stack learning platform designed for online education and student engagem
 ✔ MongoDB Database
 
 ### Tech Stack
-React • Node.js • Express.js • MongoDB
+React.js • Node.js • Express.js • MongoDB
 
 ---
 
