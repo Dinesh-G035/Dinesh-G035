@@ -140,8 +140,7 @@ React JS • Tailwind CSS
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinesh-G035&theme=tokyonight)
 
 <!-- Daily Commit Streak Card -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dinesh-G035&theme=tokyonight)
-
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Dinesh-G035&theme=tokyonight)
 </div>
 
 ---
