@@ -147,8 +147,7 @@ React JS • Tailwind CSS
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-G035&theme=tokyo-night)]
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-G035&theme=tokyo-night)](https://github.com/Dinesh-G035/github-readme-activity-graph)
 ---
 
 ## 📫 Connect With Me
