@@ -107,8 +107,6 @@ React JS • Tailwind CSS
 
 ✔ Collaborated with developers worldwide
 
-✔ Enhanced project documentation
-
 ---
 
 ## 🏆 Achievements
