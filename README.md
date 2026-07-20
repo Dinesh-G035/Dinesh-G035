@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dinesh G</h1>
-<h3 align="center">Full Stack Developer | Java Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Java Developer | UI/UX Designer</h3>
 
 <p align="center">
   Passionate about building scalable web applications, solving real-world problems, and creating user-friendly digital experiences.
