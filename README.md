@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Java Developer | UI/UX Designer</h3>
 
 <p align="justify">
-  Full-Stack Developer with practical project experience building complete web applications from initial ideas to functional code. Skilled in developing front-end layouts that look great on all devices, as well as managing back-end databases and APIs. Passionate about learning new tools, solving coding challenges, and bringing a strong work ethic to a development team.
+  Full Stack Developer with practical project experience building complete web applications from initial ideas to functional code. Skilled in developing frontend layouts that look great on all devices, as well as managing back-end databases and APIs. Passionate about learning new tools, solving coding challenges, and bringing a strong work ethic to a development team.
 </p>
 
 <div align="center">
@@ -29,25 +29,25 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+### Frontend:
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
+### Backend:
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
+### Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+### Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
