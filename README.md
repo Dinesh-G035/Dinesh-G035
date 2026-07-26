@@ -98,7 +98,8 @@ An interactive platform that teaches budgeting, saving, and investing through ga
 
 `React` • `Node.js` • `Express.js` • `MongoDB`
 
-### Work With
+**Work With**
+
 `React` • `Tailwind CSS` 
 
 ---
