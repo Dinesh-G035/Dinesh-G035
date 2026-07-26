@@ -1,5 +1,14 @@
 <h1 align="center">Hello 👋, I'm Dinesh G</h1>
-<h3 align="center">Full Stack Developer | Java Developer | UI/UX Designer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dinesh-G035&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Dinesh-G035?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/Dinesh-G035?affiliations=OWNER&style=flat&color=yellow" />
+</p>
+
 
 <p align="justify">
   Full Stack Developer with practical project experience building complete web applications from initial ideas to functional code. Skilled in developing frontend layouts that look great on all devices, as well as managing back-end databases and APIs. Passionate about learning new tools, solving coding challenges, and bringing a strong work ethic to a development team.
@@ -31,7 +40,6 @@
 
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend:
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,55 +65,41 @@
 
 # 🚀 Featured Projects
 
-## 🎓 Virtual Classroom System
+### 🎓 Virtual Classroom System
 
 A full-stack learning platform designed for online education and student engagement.
 
-### Features
-✔ JWT Authentication
+### ✨ Features
 
-✔ Role-Based Access Control
+- 🔐 JWT Authentication
+- 👥 Role-Based Access Control
+- 📊 Student Analytics Dashboard
+- 🌐 REST API Integration
+- 💾 MongoDB Database
 
-✔ Student Analytics Dashboard
+**Tech Stack**
 
-✔ REST API Integration
-
-✔ MongoDB Database
-
-### Tech Stack
-React.js • Node.js • Express.js • MongoDB
+`React` • `Node.js` • `Express.js` • `MongoDB`
 
 ---
 
-## 💰 FinQuest – Financial Learning Platform
+### 💰 FinQuest – Financial Learning Platform
 
 An interactive platform that teaches budgeting, saving, and investing through games and real-world simulations.
 
-### Features
+### ✨ Features
 
-✔ Financial Quizzes
+- 📚 Interactive Learning Modules
+- 🎮 Financial Quizzes
+- 📈 User Progress Tracking
+- 📱 Responsive UI
 
-✔ Interactive Learning Modules
+**Tech Stack**
 
-✔ User Progress Tracking
-
-✔ Responsive UI
-
-### Tech Stack
-React.js • Node.js • Express.js • MongoDB
+`React` • `Node.js` • `Express.js` • `MongoDB`
 
 ### Work With
-React JS • Tailwind CSS 
-
----
-
-## 🌍 Open Source Contributions
-
-✔ Contributed to open-source repositories
-
-✔ Fixed bugs and improved features
-
-✔ Collaborated with developers worldwide
+`React` • `Tailwind CSS` 
 
 ---
 
@@ -123,10 +117,10 @@ React JS • Tailwind CSS
 
 ## 📜 Certifications
 
-- Advanced Java – GeeksforGeeks
-- Git & GitHub – Udemy
-- Ethical Hacking – NPTEL
-- UI/UX Design – Great Learning
+- ☕ Advanced Java – GeeksforGeeks
+- 🌱 Git & GitHub – Udemy
+- 🛡 Ethical Hacking – NPTEL
+- 🎨 UI/UX Design – Great Learning
 
 ---
 
