@@ -11,7 +11,7 @@
 
 
 <p align="justify">
-  Full Stack Developer with practical project experience building complete web applications from initial ideas to functional code. Skilled in developing frontend layouts that look great on all devices, as well as managing back-end databases and APIs. Passionate about learning new tools, solving coding challenges, and bringing a strong work ethic to a development team.
+  Full Stack Developer with practical project experience building complete web applications from initial ideas to functional code. Skilled in developing frontend layouts that look great on all devices, as well as managing backend databases and APIs. Passionate about learning new tools, solving coding challenges, and bringing a strong work ethic to a development team.
 </p>
 
 <div align="center">
