@@ -79,7 +79,7 @@ A full-stack learning platform designed for online education and student engagem
 
 **Tech Stack**
 
-`React` • `Node.js` • `Express.js` • `MongoDB`
+`React.js` • `Node.js` • `Express.js` • `MongoDB`
 
 ---
 
@@ -96,11 +96,11 @@ An interactive platform that teaches budgeting, saving, and investing through ga
 
 **Tech Stack**
 
-`React` • `Node.js` • `Express.js` • `MongoDB`
+`React.js` • `Node.js` • `Express.js` • `MongoDB`
 
 **Work With**
 
-`React` • `Tailwind CSS` 
+`React.js` • `Tailwind CSS` 
 
 ---
 
