@@ -8,10 +8,8 @@
   <img src="https://img.shields.io/github/followers/Dinesh-G035?label=Followers&style=flat&color=blue" />
   <img src="https://img.shields.io/github/stars/Dinesh-G035?affiliations=OWNER&style=flat&color=yellow" />
 </p>
-
-
 <p align="justify">
-  Full Stack Developer with practical project experience building complete web applications from initial ideas to functional code. Skilled in developing frontend layouts that look great on all devices, as well as managing backend databases and APIs. Passionate about learning new tools, solving coding challenges, and bringing a strong work ethic to a development team.
+ I'm a Full Stack Developer with hands-on experience building complete web applications from concept to deployment. I enjoy creating responsive, user-friendly interfaces and developing scalable backend APIs and databases
 </p>
 
 <div align="center">
