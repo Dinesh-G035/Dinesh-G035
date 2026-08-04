@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/stars/Dinesh-G035?affiliations=OWNER&style=flat&color=yellow" />
 </p>
 <p align="justify">
- I'm a Full Stack Developer with hands-on experience building complete web applications from concept to deployment. I enjoy creating responsive, user-friendly interfaces and developing scalable backend APIs and databases
+ I'm a Full Stack Developer with hands-on experience building complete web applications from concept to deployment. I enjoy creating responsive, user-friendly interfaces and developing scalable backend APIs and databases.
 </p>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 🎨 UI/UX Designer focused on clean and intuitive user experiences
 
-🌱 Currently learning Java
+🌱 Currently learning Full Stack
 
 🎯 Goal: Become a Software Engineer
 
@@ -106,11 +106,11 @@ An interactive platform that teaches budgeting, saving, and investing through ga
 
 🥉 3rd Place – Logo Redesign Competition (2025)
 
-🏅 Team Leader – ICT Academy Hackathon Final Round
+🏅 Team Leader – ICT Academy Hackathon Final Round (2025)
 
 📦 MSME Project Contributor – Sustainable Packaging Solutions
 
-📄 Research Paper Presentation – Nanotechnology
+📄 Paper Presentation – Nanotechnology (2024)
 
 ---
 
