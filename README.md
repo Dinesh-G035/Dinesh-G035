@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/stars/Dinesh-G035?affiliations=OWNER&style=flat&color=yellow" />
 </p>
 <p align="justify">
- I'm a Full Stack Developer with hands-on experience building complete web applications from concept to deployment. I enjoy creating responsive, user-friendly interfaces and developing scalable backend APIs and databases.
+ I'm a Full Stack Developer with handson experience building complete web applications from concept to deployment. I enjoy creating responsive, user-friendly interfaces and developing scalable backend APIs and databases.
 </p>
 
 <div align="center">
