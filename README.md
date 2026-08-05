@@ -108,7 +108,7 @@ An interactive platform that teaches budgeting, saving, and investing through ga
 
 🏅 Team Leader – ICT Academy Hackathon Final Round (2025)
 
-📦 MSME Project Contributor – Sustainable Packaging Solutions
+📦 MSME Project Contributor – Sustainable Packaging Solutions (2025)
 
 📄 Paper Presentation – Nanotechnology (2024)
 
@@ -148,7 +148,3 @@ An interactive platform that teaches budgeting, saving, and investing through ga
 
 🐙 GitHub: [Dinesh-G035](https://github.com/Dinesh-G035)
 
----
-<h2>Quote:</h2>
-
-<p align="center" >⭐ "Building solutions that create impact and improve lives."</p>
