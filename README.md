@@ -24,7 +24,7 @@
 
 🎓 B.E. Computer Science and Engineering Student
 
-💻 Full Stack Developer with experience in MERN Stack and REST APIs
+💻 Full Stack Developer
 
 🎨 UI/UX Designer focused on clean and intuitive user experiences
 
