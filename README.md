@@ -135,7 +135,8 @@ An interactive platform that teaches budgeting, saving, and investing through ga
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-G035&theme=tokyo-night)](https://github.com/Dinesh-G035/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-G035&theme=tokyo-night&timezone=Asia%2FKolkata)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ## 📫 Connect With Me
