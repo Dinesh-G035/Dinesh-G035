@@ -128,14 +128,10 @@ An interactive platform that teaches budgeting, saving, and investing through ga
 <div align="center">
 
 <!-- Daily Commit Streak Card -->
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Dinesh-G035&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dinesh-G035&theme=tokyo-night&timezone=Asia/Kolkata)](https://git.io/streak-stats)
+
 </div>
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-G035&theme=tokyo-night&timezone=Asia%2FKolkata)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
