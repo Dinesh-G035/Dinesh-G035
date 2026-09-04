@@ -141,7 +141,7 @@ An interactive platform that teaches budgeting, saving, and investing through ga
 
 💼 LinkedIn: [DineshG09](https://www.linkedin.com/in/dineshg09)
 
-🌐 Portfolio: [dinesh-sand.vercel.app](https://dinesh-sand.vercel.app/)
+🌐 Portfolio: [dineshg-ochre.vercel.app](https://dineshg-ochre.vercel.app)
 
 🐙 GitHub: [Dinesh-G035](https://github.com/Dinesh-G035)
 
