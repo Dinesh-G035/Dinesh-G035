@@ -116,7 +116,6 @@ An interactive platform that teaches budgeting, saving, and investing through ga
 
 ## 📜 Certifications
 
-- ☕ Advanced Java – GeeksforGeeks
 - 🌱 Git & GitHub – Udemy
 - 🛡 Ethical Hacking – NPTEL
 - 🎨 UI/UX Design – Great Learning
