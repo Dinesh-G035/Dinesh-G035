@@ -9,7 +9,10 @@
   <img src="https://img.shields.io/github/stars/Dinesh-G035?affiliations=OWNER&style=flat&color=yellow" />
 </p>
 <p align="justify">
- I'm a Full Stack Developer with handson experience building complete web applications from concept to deployment. I enjoy creating responsive, user-friendly interfaces and developing scalable backend APIs and databases.
+  I'm a Full Stack Developer with hands-on experience building web applications.
+  I enjoy creating responsive, user-friendly interfaces and developing backend
+  APIs and database-driven solutions. I'm continuously improving my skills
+  and exploring new technologies to build practical software solutions.
 </p>
 
 <div align="center">
@@ -22,13 +25,13 @@
 
 ## 🚀 About Me
 
-🎓 B.E. Computer Science and Engineering Student
+🎓 B.E. Computer Science and Engineering student
 
 💻 Full Stack Developer
 
-🎨 UI/UX Designer focused on clean and intuitive user experiences
+🎨 UI/UX Designer focused on clean and user experiences
 
-🌱 Currently learning Full Stack
+🌱 Currently improving my full-stack development skills
 
 🎯 Goal: Become a Software Engineer
 
@@ -94,11 +97,7 @@ An interactive platform that teaches budgeting, saving, and investing through ga
 
 **Tech Stack**
 
-`React.js` • `Node.js` • `Express.js` • `MongoDB`
-
-**Work With**
-
-`React.js` • `Tailwind CSS` 
+`React.js` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB` 
 
 ---
 
@@ -126,9 +125,7 @@ An interactive platform that teaches budgeting, saving, and investing through ga
 
 <div align="center">
 
-<!-- Daily Commit Streak Card -->
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dinesh-G035&theme=tokyo-night&timezone=Asia/Kolkata)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dinesh-G035&theme=tokyo-night&timezone=Asia%2FKolkata)](https://git.io/streak-stats)
 
 </div>
 
