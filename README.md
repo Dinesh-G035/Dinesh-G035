@@ -3,17 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dinesh-G035&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Dinesh-G035?label=Followers&style=flat&color=blue" />
-  <img src="https://img.shields.io/github/stars/Dinesh-G035?affiliations=OWNER&style=flat&color=yellow" />
-</p>
-<p align="justify">
-  I'm a Full Stack Developer with hands-on experience building web applications.
-  I enjoy creating responsive, user-friendly interfaces and developing backend
-  APIs and database-driven solutions. I'm continuously improving my skills
-  and exploring new technologies to build practical software solutions.
-</p>
 
 <div align="center">
 
@@ -21,7 +10,6 @@
 
 </div>
 
----
 
 ## 🚀 About Me
 
